@@ -1,1 +1,3 @@
-console.log("this is nodejs");
+const harry = require('./second');
+
+console.log(harry);
