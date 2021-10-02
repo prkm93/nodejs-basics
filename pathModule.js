@@ -7,4 +7,5 @@ const a2 = path.dirname('F:\Career\Crio\workspace\bytes\nodejs basics\osmodule.j
 console.log({a2});
 
 const a3 = path.extname(__filename);
+console.log({__filename});
 console.log({a3}); 
